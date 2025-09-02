@@ -262,9 +262,8 @@
                 Type
                 <select {...register("type")}>
                 <option value="">-- Select Type --</option>
-                <option value="Boys">Boys</option>
-                <option value="Girls">Girls</option>
-                <option value="Both">Both</option>
+                <option value="Public">Public</option>
+                <option value="Private">Private</option>
                 </select>
             </label>
 
